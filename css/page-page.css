@@ -1,0 +1,136 @@
+
+.orange{
+    color: rgb(255, 115, 0) !important;
+}
+
+.back-orange{
+    background-color: rgb(255, 115, 0);
+}
+
+.bd-button{
+    border-radius: 50px;
+    width: 130px;
+    height: 42px;
+}
+
+.div-header{
+    width: 40%;
+}
+
+.a{
+    text-decoration: none;
+}
+
+.bej{
+    background-color: #fef8f5;
+}
+
+.div-label{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.img{
+    width: 636px;
+    height: 439px;
+}
+
+.black{
+    color: #4E4039 !important;
+    margin: 0 0 10px 0;
+    font-size: 300%;
+}
+
+.brown{
+    color: #A08F86 !important;
+    margin: 10px 0 10px 0;
+    font-size: 150%;
+}
+
+.width-button{
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    margin: 10px 0 0 0;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.line-font{
+    font-size: 300%;
+}
+
+.selection-font{
+    font-size: 200%;
+}
+
+.bd-10{
+    border-radius: 10px;
+    width: 306px;
+    height: 247px;
+}
+
+.fa-icon{
+    color: #fda13e;
+}
+
+.image{
+    width: 306px;
+    height: 306px;
+}
+
+.sans{
+    font-family: sans-serif;
+}
+
+.input-wh{
+    width: 516px;
+    height: 43px;
+}
+
+.button-s-wh{
+    width: 113px;
+    height: 43px;
+}
+
+.bd-4{
+    border-radius: 4px;
+}
+
+.h-fotter{
+    height: 340px;
+}
+
+.h-link{
+    height: 219px;
+}
+
+.h-network{
+    height: 150px;
+}
+
+.wh-net{
+    width: 36px;
+    height: 36px;
+    background: #EB5D1E;
+    color: white;
+    border-radius: 50px;
+}
+
+.net-w{
+    width: 205px;
+}
+
+.mb-30{
+    margin-bottom: 30px !important;
+}
+
+
+.image-icon{
+    width: 48px;
+    height: 48px;
+}
+
